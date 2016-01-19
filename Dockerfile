@@ -1,4 +1,4 @@
-FROM fgrehm/alpine-go:1.5.1
+FROM fgrehm/alpine-go:1.5.3
 
 ENV PATH "./node_modules/.bin:$PATH"
 
